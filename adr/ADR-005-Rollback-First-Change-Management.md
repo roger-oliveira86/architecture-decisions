@@ -114,7 +114,7 @@ Require tested rollback only for changes flagged as high-risk.
 ### Success Metrics
 - **Rollback execution rate** — target: 100% of changes have rollback tested pre-deployment (was: rollback documented but rarely tested)
 - **Mean incident duration** — target: reduced by making revert-first the default response
-- **Ingress-layer incidents** — zero over 6 months (carried forward from ADR-001, reinforced by this decision)
+- **Ingress-layer incidents** — target: zero over 6 months (target carried forward from ADR-001, reinforced by this decision)
 
 ---
 

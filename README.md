@@ -34,6 +34,6 @@ This repo documents **technical leadership in platform engineering**: how to des
 ## Artigos relacionados (Medium)
 
 - [Arquitetura de Software é, na Verdade, Gestão de Decisões](https://medium.com/@rogeroliveira86/sistemas-escalam-da-mesma-forma-que-a-organiza%C3%A7%C3%A3o-feb29753552a) — mar/2026
-- [Sistemas Escalam da Mesma Forma que a Organização](LINKhttps://medium.com/@rogeroliveira86/arquitetura-de-software-%C3%A9-na-verdade-gest%C3%A3o-de-decis%C3%B5es-4485f3316196) — mar/2026
-- [Você não escala sistemas enquanto continuar sendo o ponto central deles](LINK) — abr/2026
-- [Rollback Isn't a Backup Plan. It's a Culture.](LINK) — jul/2026 — referencia direta ao ADR-005
+- [Sistemas Escalam da Mesma Forma que a Organização](https://medium.com/@rogeroliveira86/arquitetura-de-software-%C3%A9-na-verdade-gest%C3%A3o-de-decis%C3%B5es-4485f3316196) — mar/2026
+- [Você não escala sistemas enquanto continuar sendo o ponto central deles](https://medium.com/@rogeroliveira86/voc%C3%AA-n%C3%A3o-escala-sistemas-enquanto-continuar-sendo-o-ponto-central-deles-d3b4f5bad42d) — abr/2026
+- [Rollback Isn't a Backup Plan. It's a Culture.](https://medium.com/@rogeroliveira86/rollback-isnt-a-backup-plan-it-s-a-culture-5893da2d7fd2) — jul/2026 — referencia direta ao ADR-005

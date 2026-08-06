@@ -6,11 +6,11 @@
 Standard process for executing changes to ingress layer.
 
 ## Pre-Change Checklist
-- [ ] Change documented in ADR
-- [ ] Initiative in Azure DevOps
-- [ ] All teams reviewed
-- [ ] Rollback tested
-- [ ] On-call aware
+- [x] Change documented in ADR
+- [x] Initiative in Azure DevOps
+- [x] All teams reviewed
+- [x] Rollback tested
+- [x] On-call aware
 
 ## Process
 1. **Staging** - Create, apply, validate, document (Day 1-2)

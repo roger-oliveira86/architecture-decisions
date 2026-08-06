@@ -13,12 +13,12 @@ A collection of architecture decision records (ADRs), case studies, and operatio
 
 ### Case Studies
 Narrative explorations of real-world initiatives.
-- **[Kubernetes Restructuring: From Fragmentation to Predictability](./case-studies/01-kubernetes-restructuring.md)** *(coming — publishing on Medium soon)*
+- **[Kubernetes Restructuring: From Fragmentation to Predictability](./case-studies/01-kubernetes-restructuring.md)** — available
 - **[Rollback Isn't a Backup Plan. It's a Culture.](https://medium.com/@rogeroliveira86/rollback-isnt-a-backup-plan-it-s-a-culture-5893da2d7fd2)** — published on Medium
 
 ### Runbooks & Operations
 Practical guides for executing platform operations.
-- **[Ingress Layer Change Management](./runbooks/ingress-change-management.md)** *(coming)*
+- **[Ingress Layer Change Management](./runbooks/ingress-change-management.md)** — available
 
 ## 🎯 What This Repository Represents
 

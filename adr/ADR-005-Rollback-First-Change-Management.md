@@ -2,7 +2,7 @@
 
 **Date:** 2024 (retroactively documented)
 **Status:** Accepted
-**Deciders:** Roger Oliveira (Platform Team Lead), Network Team, DevOps Team
+**Deciders:** Roger Oliveira (Technical Lead for the initiative), Network Team, DevOps Team
 **Affects:** Change management process, incident response, platform reliability
 
 ---
